@@ -23,7 +23,7 @@ ul {
   cursor: pointer;
 }
 
-.button :hover {
+.button:hover {
   color: var(--color-brand-dark);
   background-color: transparent;
 }
@@ -33,7 +33,7 @@ ul {
   color: var(--color-primary-light);
 }
 
-.link :hover {
+.link:hover {
   color: var(--color-brand-light);
 }
 
